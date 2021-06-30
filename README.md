@@ -3,7 +3,7 @@
   <a href="https://github.com/klstff">
   <img height="180em" src="https://github-readme-total-stats.vercel.app/api?username=klstff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1e2531&title_color=6efff6"/>
   <img height="180em" src="https://github-readme-total-stats.vercel.app/api/top-langs/?username=klstff&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook&bg_color=0d1117&border_color=1e2531&title_color=6efff6"/><br>
-  <img src="https://still-island-97608.herokuapp.com/graph?username=klstff&theme=react-dark&hide_border=true&color=6efff6&line=6efff6"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=klstff&theme=react-dark&hide_border=true&color=6efff6&line=6efff6"/>
 </div>
 
 <div style="display: inline_block"><br>
