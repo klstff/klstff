@@ -1,8 +1,8 @@
 ## Hi, I'm Kelly
 
 <a href="https://github.com/klstff">
-<img height="180em" src="https://github-readme-total-stats.vercel.app/api?username=klstff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=1e2531&title_color=6efff6"/>
-<img height="180em" src="https://github-readme-total-stats.vercel.app/api/top-langs/?username=klstff&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook&bg_color=0d1117&border_color=1e2531&title_color=6efff6"/><br><br>
+<img height="180em" src="https://github-readme-total-stats.vercel.app/api?username=klstff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&border_color=949CA540&text_color=949CA5&title_color=6efff6"/>
+<img height="180em" src="https://github-readme-total-stats.vercel.app/api/top-langs/?username=klstff&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook&bg_color=00000000&border_color=949CA540&text_color=949CA5&title_color=6efff6"/><br><br>
 
 <img align=left width="350rem" src="https://novatorem-fawn-eta.vercel.app/api/spotify"/>
 
